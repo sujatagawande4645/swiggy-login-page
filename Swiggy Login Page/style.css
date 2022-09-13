@@ -1,0 +1,247 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.box1{
+    border: 1px solid white;
+    height: 700px;
+    width: 500px;
+    position: relative;
+    left: 445px;
+    top: 50px;
+    bottom: 100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 10px grey;
+    
+}
+.box1{
+    box-shadow: -10px 10px 10px rgb(247, 216, 159);
+}
+.box1 .box2{
+    border: 1px solid white;
+    height: 450px;
+    width: 400px;
+    position: relative;
+    left: 50px;
+    top: 15px;
+    box-shadow: -10px 10px 10px 10px grey;
+    border-radius: 2rem;
+
+}
+.image1{
+    position: relative;
+    bottom: 1px;
+    right: 1px;
+    box-shadow: 10px 10px 10px grey;
+}
+.box1 .box2 .hello{
+    text-align: center;
+}
+.box1 .box2 .form1 .sign_up{
+    border: 1px solid grey;
+    width: 400px;
+    height: 50px;
+    position: relative;
+    bottom: 24px;
+    right: 2px;
+    
+    border-radius: 2rem;
+}
+.box1 .box2 .form1 .h11{
+    position: relative;
+    bottom: 15px;
+}
+
+.box1 .box2 .image2{
+    background-color: rgb(243, 120, 6);
+}
+.box2 .form1 .hello .name1{
+    position: relative;
+    bottom: 10px;
+    text-align: left;
+    left: 70px;
+}
+.box2 .form1 .hello .name2{
+    position: relative;
+    bottom: 15px;
+    text-align: left;
+    left: 70px;
+}
+.box2 .form1 .hello .location{
+    position: relative;
+    bottom: 17px;
+    text-align: left;
+    left: 70px;
+}
+.box2 .form1 .hello .gender1{
+    position: relative;
+    bottom: 30px;
+    text-align: left;
+    left: 110px;
+}
+.box2 .form1 .hello .gender2{
+    position: relative;
+    bottom: 50px;
+    text-align: left;
+    left: 190px;
+}
+.box2 .form1 .hello .username{
+    position: relative;
+    bottom: 60px;
+    text-align: left;
+    left: 70px;
+}
+.box2 .form1 .hello .password{
+    position: relative;
+    bottom: 70px;
+    text-align: left;
+    left: 70px;
+}
+.box2 .form1 .hello .submit{
+    position: relative;
+    bottom: 170px;
+    text-align: center;
+    
+}
+.box2 .form1 .hello .para{
+    position: relative;
+    bottom: 210px;
+    left: 10px;
+}
+.box2 .form1 .hello .name1 .fname1{
+   border-radius: 1rem;
+}
+.box2 .form1 .hello .name2 .lname1{
+    border-radius: 1rem;
+ }
+ .box2 .form1 .hello .location .location1{
+    border-radius: 1rem;
+ }
+ .box2 .form1 .hello .username .username1{
+    border-radius: 1rem;
+ }
+ .box2 .form1 .hello .password .password1{
+    border-radius: 1rem;
+ }
+ .box2 .form1 .hello .name1{
+    border: 1px solid rgb(235, 233, 233);
+    border-radius: 1rem;
+    width: 270px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(247, 215, 158);
+    position: relative;
+    bottom: 20px;
+ }
+ .box2 .form1 .hello .name2{
+    border: 1px solid rgb(235, 233, 233);
+    border-radius: 1rem;
+    width: 270px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(247, 215, 158);
+    bottom: 40px;
+ }
+ .box2 .form1 .hello .location{
+    border: 1px solid rgb(235, 233, 233);
+    border-radius: 1rem;
+    width: 270px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(247, 215, 158);
+    bottom: 60px;
+ }
+ .box2 .form1 .hello .username{
+    border: 1px solid rgb(235, 233, 233);
+    border-radius: 1rem;
+    width: 270px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(247, 215, 158);
+    bottom: 50px;
+ }
+ .box2 .form1 .hello .password{
+    border: 1px solid rgb(235, 233, 233);
+    border-radius: 1rem;
+    width: 270px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(247, 215, 158);
+    
+ }
+ .box2 .form1 .hello .gender1{
+    border: 1px solid rgb(235, 233, 233);
+    border-radius: 1rem;
+    width: 60px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(247, 215, 158);
+     bottom: 77px;
+ }
+ .box2 .form1 .hello .gender2{
+    border: 1px solid rgb(235, 233, 233);
+    border-radius: 1rem;
+    width: 80px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(247, 215, 158);
+    bottom: 110px;
+ }
+ .box2 .form1 .hello .username{
+    border: 1px solid rgb(235, 233, 233);
+    border-radius: 1rem;
+    width: 270px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(247, 215, 158);
+    bottom: 130px;
+ }
+ .box2 .form1 .hello .password{
+    border: 1px solid rgb(235, 233, 233);
+    border-radius: 1rem;
+    width: 270px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(247, 215, 158);
+    bottom: 150px;
+ }
+.box2 .form1 .username .username1{
+    border: 0.5px solid rgb(196, 193, 193);
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 1px grey;
+    width: 190px;
+    height: 20px;
+} 
+.box2 .form1 .password .password1{
+    border: 0.5px solid rgb(196, 193, 193);
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 1px grey;
+    width: 190px;
+    height: 20px;
+}
+.box2 .form1 .name1 .fname1{
+    border: 0.5px solid rgb(196, 193, 193);
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 1px grey;
+    width: 181px;
+    height: 20px;
+}  
+.box2 .form1 .name2 .lname1{
+    border: 0.5px solid rgb(196, 193, 193);
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 1px grey;
+    width: 181px;
+    height: 20px;
+} 
+.box2 .form1 .location .location1{
+    border: 0.5px solid rgb(196, 193, 193);
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 1px grey;
+    width: 195px;
+    height: 20px;
+} 
